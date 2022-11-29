@@ -1,93 +1,71 @@
-# akshaykadu24.github.io
 
-### <div align="center">Hii 👋 I'm Akshay, a Full-stack developer 👨‍💻, Able to perform well in a team. Passionate about my skills and am an enthusiastic person🚀 </div>  
-  
+<h1 align="center">Hi 👋, I'm Akshay kadu</h1>
+<h3 align="center">A Passionate Full Stack Web developer From India</h3>
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaykadu24&label=Profile%20views&color=0e75b6&style=flat" alt="akshaykadu24" /> </p>
+<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="img" align="right" width="400"/>
+                  
 
-- 🔭 I’m currently working on Portfolio  
-  
-
-- 🌱 I’m currently learning React JS advance  
-  
-
-- ❓ Ask me about HTML, CSS, JavaScript, React   
-  
-
-- 📫  How to reach me akshaykadu24@gmail.com  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://camo.githubusercontent.com/2f2934700ecd17570d9aa75a4e6484de687993e7bebef2279531c30a93040524/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d65636630356534377a6a6473626d736779707a6a6273366d7a6a3279707a756f716d626f346e747762736e6b366f616a267269643d67697068792e6769662663743d67" align="center" style="width: 100%" />
-</div>  
+- 🔭 I’m currently working on my Portfolio Website :grin:
+- 🌱 I’m currently learning Data Visualization.
+- 👯 I’m looking to collaborate with other Developers :wink:
+- 🥅 2022 Goals : Contribute to Open Source projects
+- 💬 Ask me about anything, I am happy to help :smile:
+- 📬 How to reach me: <a href="https://linkedin.com/in/akshay-kadu-847311193/" target="blank">Let's get in touch!</a>
+- 🧗 I try to : Go beyond and push the bounds
+- ⚡ Fun fact : My smartness 💡 lies in my laziness 😴
+<br>
 
 
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="left">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-</div>  
-
-
-
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
+<h3 align="left">Connect with me:</h3> 
+<div >
 <a href="https://github.com/akshaykadu24" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/akshay-kadu-847311193" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/akshaykadu24" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
+
+</div>
+
+<br>
+
+<h3 align="left">Languages and Tools:</h3>
+<div align="left">  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /></a>  
 </div>  
-  
-
-<br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=akshaykadu24&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<h3 align="left">GitHub Stats</h3>
 
-<br/>  
+<div align="center" style="display: flex;  gap:50px">
+
+<img src="https://github-readme-stats.vercel.app/api?username=akshaykadu24&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 40%" />
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykadu24&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
 
-<br/>  
+</div>
+<div align="center" style="display: flex; ">
+ 
+<img src="https://streak-stats.demolab.com?user=akshaykadu24&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
 
-  
+</div> 
 
-<br/>  
+ 
+<h3 align="left">🏆 Achivements</h3>
+<div align="center" >
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=akshaykadu24&&style=flat-square" align="center" />
-</div>  
-  
+![](https://github-profile-trophy.vercel.app/?username=akshaykadu24&column=-1&theme=chalk&rank=-?&margin-w=25)
+</div>
+<hr>
+<div align="center" >
+<img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" />
+</div>
 
-<br/>  
 
-<div align="center"></div>
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
