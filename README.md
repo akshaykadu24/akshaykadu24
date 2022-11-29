@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Akshay kadu</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" >, I'm Akshay kadu</h1>
 <h3 align="center">A Passionate Full Stack Web developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaykadu24&label=Profile%20views&color=0e75b6&style=flat" alt="akshaykadu24" /> </p>
@@ -44,15 +44,15 @@
 
 <div align="center" style="display: flex;  gap:50px">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akshaykadu24&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=akshaykadu24&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 47%" />
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykadu24&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykadu24&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 47%" />
 
 </div>
 <div align="center" style="display: flex; ">
  
-<img src="https://streak-stats.demolab.com?user=akshaykadu24&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
+<img src="https://streak-stats.demolab.com?user=akshaykadu24&_border=true&theme=dark&hide_border=true&theme=react" style="width: 47%" />
 
 </div> 
 
