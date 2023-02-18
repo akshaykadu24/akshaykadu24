@@ -41,11 +41,15 @@ RESUME
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
 <!--   <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://img.icons8.com/ios-filled/512/typescript.png"  width="48" height="48"/> </a> -->
    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a> 
-<!--    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/512/mongodb.png" width="48" height="48"/> </a>  -->
+   <a href="https://nextjs.org/" target="_blank"> <img src="https://camo.githubusercontent.com/f21f1fa29dfe5e1d0772b0efe2f43eca2f6dc14f2fede8d9cbef4a3a8210c91d/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6c696768745f6261636b67726f756e642e706e67" width="48" height="48"/> </a> 
       <a href="https://chakra-ui.com" target="_blank"> <img src="https://img.icons8.com/color/512/chakra-ui.png" width="48" height="48"/> </a> 
 <!--      <a href="https://mui.com/material-ui" target="_blank"> <img src="https://img.icons8.com/color/512/material-ui.png" width="48" height="48"/> </a>  -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp;
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p> 
+ <a href="https://git-scm.com/" target="_blank"> <img src=""/> </a> 
+</p>
 
 
 <h3 align="center">GitHub Stats</h3>
