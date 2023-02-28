@@ -47,9 +47,7 @@ RESUME
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-</p> 
- <a href="https://git-scm.com/" target="_blank"> <img src=""/> </a> 
-</p>
+
 
 
 <h3 align="center">GitHub Stats</h3>
@@ -59,7 +57,7 @@ RESUME
 <img src="https://github-readme-stats.vercel.app/api?username=akshaykadu24&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 47%" />
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykadu24&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 47%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykadu24&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 44%" />
 
 </div>
 <div align="center" style="display: flex; ">
